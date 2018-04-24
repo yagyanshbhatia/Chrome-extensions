@@ -1,0 +1,19 @@
+{
+  "name": "SpeedUp",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "SpeedUp your YouTube!",
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": true
+  },
+  "browser_action": {
+    "default_icon": "tab-icon.png"
+  },
+  "permissions": [
+    "https://www.youtube.com/*",
+    "tabs"
+  ]
+}
