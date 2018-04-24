@@ -14,3 +14,6 @@ Now enjoy no limitaions on the speed of your youtube. add this extension and boo
 `select the above extension folder`
 
 voila! enjoy
+
+to use the extension 
+simply click on the icon and enter the speed you want! :)
